@@ -1,13 +1,13 @@
  
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=180&section=header&text=Afaan%20Kamran&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
+
 # Afaan Kamran
 
-### Senior Full-Stack Software Engineer | AI Engineer | Conversational AI Architect
+### Full Stack Software Engineer | AI Engineer | Conversational AI Architect
 
-Building scalable applications, intelligent AI agents, and voice-powered experiences.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=180&section=header&text=Afaan%20Kamran&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
+Building scalable applications, intelligent AI agents, and next-generation digital experiences.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://afaankamran.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://pk.linkedin.com/in/afaankamran3)
@@ -21,75 +21,97 @@ Building scalable applications, intelligent AI agents, and voice-powered experie
 
 ## 👨‍💻 About Me
 
-I'm a Full-Stack Software Engineer at **Scaylar Technologies**, focused on building scalable web applications and production-ready AI solutions.
+A seasoned Full Stack Developer with 4+ years of experience and a passion for crafting efficient, scalable, and user-centric digital experiences. Specializing in modern web technologies, AI engineering, conversational AI, voice agents, and intelligent automation.
 
-My work combines modern software engineering with applied AI, including:
+I enjoy designing software architectures, solving complex engineering challenges, and transforming ideas into impactful digital products.
 
-- Designing and developing full-stack applications.
-- Building AI-powered assistants, voice agents, and conversational systems.
-- Developing RAG pipelines and agentic workflows.
-- Integrating LLMs, MCP tools, and external APIs.
-- Building real-time voice experiences using WebRTC and telephony technologies.
-- Deploying and maintaining applications on AWS.
-
-I enjoy solving complex engineering problems and turning ideas into reliable products.
+- 💻 Full-stack application development
+- 🤖 AI agents, LLMs, RAG, and Agentic AI workflows
+- 🎙️ Voice AI, conversational systems, and real-time communication
+- 🔌 MCP integrations and API-driven automation
+- ☁️ Cloud infrastructure, AWS, and application deployment
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 ### 1. PGN Automation
 **HubSpot-integrated business intelligence and client management dashboard**
 
 - Developed a full-stack dashboard for client health, retention, profiles, and revenue analytics.
-- Integrated HubSpot data and AI-powered sentiment insights.
-- Implemented reporting, date filters, and automated weekly email briefs.
+- Integrated HubSpot data to provide a centralized view of business and client information.
+- Implemented AI-powered sentiment insights to support member health monitoring.
+- Built reporting features, date filters, and automated weekly email summaries.
+- Improved data visibility and streamlined internal business workflows.
 
-**Tech:** Next.js, TypeScript, HubSpot API, AI integrations, AWS Amplify.
+**Technologies:** Next.js, TypeScript, HubSpot API, AI integrations, AWS Amplify.
 
 ### 2. Kraftval
-**Project listed on LinkedIn**
+**Professional project — March 2026 to Present**
 
-[View project on LinkedIn](https://pk.linkedin.com/in/afaankamran3)
+- Contributed to the development of the Kraftval product.
+- Worked on software engineering tasks and project implementation.
+- Focused on building and improving product functionality.
+- Contributed to delivering maintainable and reliable software.
+
+[View project details on LinkedIn](https://pk.linkedin.com/in/afaankamran3)
 
 ### 3. Ghost AI
-**AI-powered project listed on LinkedIn**
+**AI-powered product — April 2026 to July 2026**
 
-[View project on LinkedIn](https://pk.linkedin.com/in/afaankamran3)
+- Worked on the development of an AI-focused product.
+- Contributed to implementing application functionality and engineering workflows.
+- Focused on integrating modern software technologies into the product.
+
+[View project details on LinkedIn](https://pk.linkedin.com/in/afaankamran3)
 
 ### 4. AI Revenue Receptionist
 **AI-powered voice receptionist and appointment scheduling platform**
 
-- Built conversational voice workflows for handling inbound business calls.
-- Integrated calendar scheduling with Google and Outlook.
-- Implemented SMS communication, call routing, and automated appointment handling.
-- Worked with real-time voice AI, telephony, and cloud infrastructure.
+- Developed conversational voice workflows for handling inbound business calls.
+- Integrated Google and Outlook calendars for appointment scheduling.
+- Implemented SMS communication and automated call-handling workflows.
+- Integrated real-time voice AI, speech technologies, and telephony services.
+- Worked on call routing, voicemail detection, and business-specific appointment flows.
+- Built and maintained cloud infrastructure for production deployment.
 
-**Tech:** Next.js, Node.js, Retell AI, Vapi, Twilio, ElevenLabs, AWS, PostgreSQL.
+**Technologies:** Node.js, Next.js, Retell AI, Vapi, Twilio, ElevenLabs, AWS, PostgreSQL.
 
 ### 5. Talent1
-**Project listed on LinkedIn**
+**Professional project — June 2025 to August 2025**
 
-[View project on LinkedIn](https://pk.linkedin.com/in/afaankamran3)
+- Contributed to the development and implementation of the Talent1 product.
+- Worked on assigned software engineering and application development tasks.
+- Focused on improving product functionality and implementation quality.
+- Collaborated on delivering maintainable software solutions.
+
+[View project details on LinkedIn](https://pk.linkedin.com/in/afaankamran3)
 
 ### 6. TalkHiring
 **AI-powered mock interview and candidate assessment platform**
 
-- Developed an AI interview platform for educational institutions and candidates.
-- Integrated voice-based interviews and automated candidate feedback.
-- Built dashboards for interview history, recordings, scores, and progress tracking.
-- Implemented CV/JD-based interview workflows and privacy-aware data processing.
+- Developed an AI-powered interview platform for educational institutions and candidates.
+- Integrated voice-based interviews to simulate real-world interview experiences.
+- Implemented CV and job-description-based interview workflows.
+- Built dashboards for interview history, recordings, scores, and candidate progress.
+- Integrated automated interview feedback and candidate assessment.
+- Implemented privacy-aware processing of candidate information.
 
-**Tech:** Next.js, Node.js, Python, Vapi, OpenAI, Deepgram, AWS, S3.
+**Technologies:** Next.js, Node.js, Python, Vapi, OpenAI, Deepgram, ElevenLabs, AWS, S3.
 
 ### 7. Unzipped
-**Project listed on LinkedIn**
+**Professional project — September 2024 to November 2024**
 
-[View project on LinkedIn](https://pk.linkedin.com/in/afaankamran3)
+- Contributed to the development and implementation of the Unzipped project.
+- Worked on application development and software engineering tasks.
+- Supported product functionality and implementation improvements.
+- Focused on delivering reliable and maintainable software.
+
+[View project details on LinkedIn](https://pk.linkedin.com/in/afaankamran3)
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
 ### Languages & Frameworks
 
@@ -104,14 +126,14 @@ I enjoy solving complex engineering problems and turning ideas into reliable pro
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-### AI & Voice Engineering
+### AI, LLM & Voice Engineering
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-2563EB?style=flat-square)
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-7C3AED?style=flat-square)
-![MCP](https://img.shields.io/badge/Model_Context_Protocol-0F766E?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-0F766E?style=flat-square)
 ![Vapi](https://img.shields.io/badge/Vapi-111827?style=flat-square)
 ![Retell AI](https://img.shields.io/badge/Retell_AI-111827?style=flat-square)
 ![LiveKit](https://img.shields.io/badge/LiveKit-1E40AF?style=flat-square)
@@ -119,7 +141,7 @@ I enjoy solving complex engineering problems and turning ideas into reliable pro
 ![Deepgram](https://img.shields.io/badge/Deepgram-13EF93?style=flat-square)
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=flat-square)
 
-### Databases & Cloud
+### Databases, Cloud & DevOps
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -130,17 +152,21 @@ I enjoy solving complex engineering problems and turning ideas into reliable pro
 
 ---
 
-## 💼 Experience
+## 💼 Professional Experience
 
 **Software Engineer — Scaylar Technologies**  
 September 2024 – Present
 
-Working on full-stack applications, AI-powered products, conversational AI, and cloud-based systems.
+- Developing full-stack applications and scalable software solutions.
+- Building AI-powered products, voice agents, and conversational systems.
+- Integrating APIs, cloud services, and modern AI technologies.
+- Contributing to system design, architecture, and production deployments.
 
 **Software Engineering Intern — Momin Solutions**  
 July 2023 – September 2023
 
-Contributed to software development and engineering projects.
+- Gained practical software development experience.
+- Contributed to application development and engineering tasks.
 
 ---
 
@@ -162,7 +188,7 @@ COMSATS University Islamabad | 2020 – 2024
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -178,11 +204,11 @@ COMSATS University Islamabad | 2020 – 2024
 
 ## 🤝 Let's Connect
 
-I'm always interested in discussing software engineering, AI systems, voice technology, and opportunities to build impactful products.
+I'm always open to connecting with engineers, founders, and teams working on impactful software products and AI solutions.
 
-- 🌐 Portfolio: https://afaankamran.vercel.app
-- 💼 LinkedIn: https://pk.linkedin.com/in/afaankamran3
-- 🐙 GitHub: https://github.com/Afaankamran
+- 🌐 Portfolio: [afaankamran.vercel.app](https://afaankamran.vercel.app)
+- 💼 LinkedIn: [Afaan Kamran](https://pk.linkedin.com/in/afaankamran3)
+- 🐙 GitHub: [@Afaankamran](https://github.com/Afaankamran)
 
 <div align="center">
 
