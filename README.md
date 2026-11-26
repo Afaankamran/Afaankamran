@@ -1,353 +1,183 @@
+ 
+<div align="center">
 
-
-\<div align="center">
-
-\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:1D4ED8,100:06B6D4&height=210&section=header&text=Afaan%20Kamran&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer%20%7C%20AI%20Engineer&descAlignY=60&descSize=17](https://capsule-render.vercel.app/api?type=waving\&color=0:0B1020,45:1D4ED8,100:06B6D4\&height=210\&section=header\&text=Afaan%20Kamran\&fontSize=48\&fontColor=ffffff\&animation=fadeIn\&fontAlignY=38\&desc=Full%20Stack%20Software%20Engineer%20%7C%20AI%20Engineer\&descAlignY=60\&descSize=17)" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=180&section=header&text=Afaan%20Kamran&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
 
 # Afaan Kamran
 
-### Senior Full Stack Software Engineer | AI Engineer | Conversational AI Architect
+### Full Stack Software Engineer | AI Engineer | Conversational AI Architect
 
-Building scalable software, intelligent AI systems, and production-ready digital products.
+Building scalable applications, intelligent AI agents, and next-generation digital experiences.
 
-\<p align="center">
-&#x20; \<a href="[https://afaankamran.vercel.app](https://afaankamran.vercel.app)">
-&#x20;   \<img src="[https://img.shields.io/badge/🌐\_Portfolio-Visit_My_Website-2563EB?style=for-the-badge&logoColor=white](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-2563EB?style=for-the-badge\&logoColor=white)" alt="Portfolio"/>
-&#x20; \</a>
-&#x20; \<a href="[https://www.linkedin.com/in/afaankamran3/](https://www.linkedin.com/in/afaankamran3/)">
-&#x20;   \<img src="[https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" alt="LinkedIn"/>
-&#x20; \</a>
-&#x20; \<a href="[https://github.com/Afaankamran](https://github.com/Afaankamran)">
-&#x20;   \<img src="[https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge\&logo=github\&logoColor=white)" alt="GitHub"/>
-&#x20; \</a>
-&#x20; \<a href="[https://www.linkedin.com/in/afaankamran3/details/projects/](https://www.linkedin.com/in/afaankamran3/details/projects/)">
-&#x20;   \<img src="[https://img.shields.io/badge/LinkedIn-My_Projects-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-My_Projects-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" alt="LinkedIn Projects"/>
-&#x20; \</a>
-\</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://afaankamran.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://pk.linkedin.com/in/afaankamran3)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Afaankamran)
 
-\<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Full+Stack+Software+Engineer;AI+%26+Voice+AI+Engineer;RAG+%7C+LLMs+%7C+Agentic+AI;Conversational+AI+Architect;Building+Intelligent+Production+Systems](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=19\&duration=3000\&pause=1000\&color=38BDF8\&center=true\&vCenter=true\&width=750\&lines=Full+Stack+Software+Engineer;AI+%26+Voice+AI+Engineer;RAG+%7C+LLMs+%7C+Agentic+AI;Conversational+AI+Architect;Building+Intelligent+Production+Systems)" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Engineer;AI+%26+Voice+AI+Engineer;RAG+%7C+LLMs+%7C+Agentic+AI;Building+Production-Ready+AI+Systems" alt="Typing SVG" />
 
-\</div>
+</div>
 
 ---
 
-## 🧭 The Story Behind the Code
+## 👨‍💻 About Me
 
-I'm Afaan Kamran, a Full Stack Software Engineer passionate about building scalable applications and intelligent software systems.
+A seasoned Full Stack Developer with 4+ years of experience and a passion for crafting efficient, scalable, and user-centric digital experiences. Specializing in modern web technologies, AI engineering, conversational AI, voice agents, and intelligent automation.
 
-My experience spans full-stack engineering, AI-powered applications, conversational AI, voice automation, and cloud-based platforms.
+I enjoy designing software architectures, solving complex engineering challenges, and transforming ideas into impactful digital products.
 
-I enjoy working across the entire product lifecycle — from architecture and backend engineering to frontend experiences, AI integrations, and production deployments.
-
-```javascript
-const afaan = {
-  role: "Full Stack Software Engineer",
-  experience: "4+ years",
-  specialization: [
-    "Full Stack Development",
-    "AI Engineering",
-    "Voice AI & Conversational AI",
-    "RAG & Agentic Systems",
-    "Software Architecture"
-  ],
-  currentlyExploring: [
-    "Advanced Agentic AI",
-    "MCP Integrations",
-    "LLM Evaluation",
-    "AI System Security"
-  ],
-  philosophy: "Build reliable systems, not just features."
-};
-```
-
-### 💡 What I Focus On
-
-- Designing scalable full-stack applications and REST APIs.
-- Building AI agents, RAG pipelines, and LLM-powered applications.
-- Engineering conversational AI and real-time voice experiences.
-- Integrating external services, APIs, and Model Context Protocol (MCP).
-- Building cloud-native systems and reliable deployment workflows.
-- Turning complex business requirements into practical software solutions.
+- 💻 Full-stack application development
+- 🤖 AI agents, LLMs, RAG, and Agentic AI workflows
+- 🎙️ Voice AI, conversational systems, and real-time communication
+- 🔌 MCP integrations and API-driven automation
+- ☁️ Cloud infrastructure, AWS, and application deployment
 
 ---
 
-## 🧰 What Powers Me — Tech Stack
+## 🚀 Featured Projects
 
-### 💻 Programming Languages
+### 1. PGN Automation
+**HubSpot-integrated business intelligence and client management dashboard**
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=ts,js,python,java,html,css](https://skillicons.dev/icons?i=ts,js,python,java,html,css)" />
-\</p>
+- Developed a full-stack dashboard for client health, retention, profiles, and revenue analytics.
+- Integrated HubSpot data to provide a centralized view of business and client information.
+- Implemented AI-powered sentiment insights for member health monitoring.
+- Built reporting features, date filters, and automated weekly email summaries.
+- Streamlined internal business workflows through centralized data and reporting.
 
-- TypeScript & JavaScript
-- Python
-- Java
-- SQL
-- HTML5 & CSS3
+**Technologies:** Next.js, TypeScript, HubSpot API, AI integrations, AWS Amplify.
 
-### 🎨 Frontend Engineering
+### 2. Kraftval
+**Electricity comparison and switching platform for the Swedish energy market**
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,redux,materialui](https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,redux,materialui)" />
-\</p>
+Website: [kraftval.se](https://www.kraftval.se)
 
-- React.js
-- Next.js
-- Angular
-- Tailwind CSS
-- Redux
-- Responsive UI Development
-- Server-Side Rendering
-- Component-Based Architecture
+- Built around helping Swedish households compare electricity contracts from leading suppliers.
+- Supports fixed, variable, hourly, and quarter-hourly electricity pricing models.
+- Uses postcode-based matching to identify the relevant electricity area across SE1–SE4.
+- Provides estimated electricity costs based on regional pricing and household consumption.
+- Enables users to compare suppliers and contract options side by side.
+- Supports a fully digital provider-switching journey with BankID authentication.
+- Focuses on transparent pricing and making electricity contracts easier to understand.
 
-### ⚙️ Backend Engineering
+### 3. Ghost AI
+**AI-powered social media marketing and content automation platform**
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=nodejs,nestjs,express,django,fastapi,flask](https://skillicons.dev/icons?i=nodejs,nestjs,express,django,fastapi,flask)" />
-\</p>
+- Generates AI personas for automated social media content creation.
+- Produces short-form video content in multiple formats, including slideshows, talking-head videos, and reactions.
+- Automates publishing across multiple Instagram accounts.
+- Uses engagement data and daily feedback loops to improve content hooks, creative direction, and publishing cadence.
+- Combines AI content generation, social media automation, and performance-driven optimization into one workflow.
 
-- Node.js & Express.js
-- NestJS
-- Django
-- FastAPI
-- Flask
-- REST API Development
-- Authentication & Authorization
-- WebSockets & Real-Time Applications
-- Microservices & API Integrations
+### 4. AI Revenue Receptionist
+**AI-powered voice receptionist and appointment scheduling platform**
 
-### 🤖 AI, LLM & Agentic Engineering
+- Developed conversational voice workflows for handling inbound business calls.
+- Integrated Google and Outlook calendars for appointment scheduling.
+- Implemented SMS communication and automated call-handling workflows.
+- Integrated real-time voice AI, speech technologies, and telephony services.
+- Implemented call routing, voicemail detection, and business-specific appointment flows.
+- Built and maintained cloud infrastructure for production deployment.
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=openai,pytorch,python](https://skillicons.dev/icons?i=openai,pytorch,python)" />
-\</p>
+**Technologies:** Node.js, Next.js, Retell AI, Vapi, Twilio, ElevenLabs, AWS, PostgreSQL.
 
-- OpenAI APIs & Realtime API
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- LangChain
-- LangGraph
-- Agentic AI Workflows
-- AI Agents & Tool Calling
-- Model Context Protocol (MCP)
-- Prompt Engineering
-- LLM Evaluation & Observability
-- LoRA & QLoRA
-- AI Workflow Automation with n8n
+### 5. Talent1
+**Talent-as-a-Service platform for flexible workforce scaling**
 
-### 🎙️ Voice AI & Real-Time Communication
+Website: [Talent1](https://www.rubbiq.com/)
 
-- Vapi
-- Retell AI
-- LiveKit
-- WebRTC
-- Twilio
-- Deepgram
-- ElevenLabs
-- Speech-to-Text (STT)
-- Text-to-Speech (TTS)
-- Voice Activity Detection
-- Real-Time Conversational Systems
-- AI Phone Agents & Appointment Automation
+- Connects businesses with pre-vetted professionals through a flexible talent-as-a-service model.
+- Supports talent sourcing, candidate screening, and skills-based assessments.
+- Helps companies access qualified professionals without traditional long-term hiring commitments.
+- Offers flexible, month-to-month engagement models to scale teams according to business requirements.
+- Supports talent matching, candidate profiles, and streamlined hiring workflows.
+- Focuses on making recruitment faster and workforce expansion more adaptable.
 
-### 🗄️ Databases & Data Management
+### 6. TalkHiring
+**AI-powered mock interview and candidate assessment platform**
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,sqlite](https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,sqlite)" />
-\</p>
+- Developed an AI-powered interview platform for educational institutions and candidates.
+- Integrated voice-based interviews to simulate real-world interview experiences.
+- Implemented CV and job-description-based interview workflows.
+- Built dashboards for interview history, recordings, scores, and candidate progress.
+- Integrated automated interview feedback and candidate assessment.
+- Implemented privacy-aware processing of candidate information.
 
-- PostgreSQL
-- MongoDB
-- MySQL
-- Redis
-- SQLite
-- Relational Database Design
-- Database Optimization
-- Query Optimization
-- Data Modeling
-- ORM & ODM Technologies
+**Technologies:** Next.js, Node.js, Python, Vapi, OpenAI, Deepgram, ElevenLabs, AWS, S3.
 
-### ☁️ Cloud & Infrastructure
+### 7. Unzipped
+**Freelancing platform connecting clients and independent professionals**
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=aws,gcp,firebase,vercel,amplify](https://skillicons.dev/icons?i=aws,gcp,firebase,vercel,amplify)" />
-\</p>
-
-- Amazon Web Services (AWS)
-  - EC2
-  - S3
-  - Lambda
-  - ECS
-  - ECR
-  - EventBridge
-  - AWS Amplify
-- Google Cloud Platform (GCP)
-- Firebase
-- Cloud Deployments
-- Object Storage
-- Serverless Architecture
-- Cloud Infrastructure Management
-
-### 🔄 DevOps, Tools & Engineering Practices
-
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=docker,git,github,githubactions,postman,linux,nginx,vscode](https://skillicons.dev/icons?i=docker,git,github,githubactions,postman,linux,nginx,vscode)" />
-\</p>
-
-- Git & GitHub
-- Docker
-- GitHub Actions
-- CI/CD Pipelines
-- Linux
-- Nginx
-- PM2
-- Postman
-- API Testing
-- Environment & Configuration Management
-- Production Monitoring
-
-### 🔌 Integrations & Automation
-
-- Stripe & Payment Integrations
-- HubSpot API
-- Twilio & SMS Services
-- Google Calendar & Microsoft Outlook
-- Email Services & Transactional Messaging
-- n8n Automation
-- MCP Tool Integrations
-- Third-Party REST APIs
+- Designed around a digital freelancing marketplace where clients and freelancers can connect.
+- Provides a platform for freelancers to showcase their services and professional capabilities.
+- Helps clients discover freelance talent for their project requirements.
+- Focuses on simplifying access to freelance opportunities and independent professional services.
+- Brings freelance service discovery and client-professional connections into one platform.
 
 ---
 
-## 🚀 Featured Projects — Products I've Worked On
+## 🛠️ Technical Skills
 
-### ⚡ Kraftval — Electricity Comparison Platform
+### Languages & Frameworks
 
-**Swedish electricity market | March 2026 – Present**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-[🌐 Visit Kraftval](https://www.kraftval.se)
+### AI, LLM & Voice Engineering
 
-A comparison and switching platform helping Swedish households find suitable electricity contracts.
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-2563EB?style=flat-square)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-7C3AED?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-0F766E?style=flat-square)
+![Vapi](https://img.shields.io/badge/Vapi-111827?style=flat-square)
+![Retell AI](https://img.shields.io/badge/Retell_AI-111827?style=flat-square)
+![LiveKit](https://img.shields.io/badge/LiveKit-1E40AF?style=flat-square)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square)
+![Deepgram](https://img.shields.io/badge/Deepgram-13EF93?style=flat-square)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=flat-square)
 
-- Compare fixed, variable, hourly, and quarter-hourly electricity contracts.
-- Match electricity offers using postcode and Sweden's four electricity areas (SE1–SE4).
-- Compare suppliers, contract terms, and estimated electricity costs.
-- Help households understand pricing options and make informed decisions.
-- Enable digital electricity-provider switching through BankID authentication.
+### Databases, Cloud & DevOps
 
-### 👻 Ghost AI — AI Marketing Automation
-
-**Social Media Content Automation | April 2026 – July 2026**
-
-An AI-powered marketing automation platform for creating, publishing, and optimizing social media content.
-
-- Generate AI personas for automated social media marketing.
-- Create short-form videos in slideshow, talking-head, and reaction formats.
-- Automate content publishing across multiple Instagram accounts.
-- Collect daily engagement data and performance signals.
-- Use feedback loops to improve content hooks, creative direction, and posting cadence.
-- Connect AI content generation with automated distribution and performance optimization.
-
-### ☎️ AI Revenue Receptionist
-
-**AI Voice Receptionist & Appointment Automation | November 2025**
-
-An intelligent voice receptionist that handles inbound calls and automates appointment scheduling.
-
-- Build AI-powered voice agents for inbound business calls.
-- Integrate calendar scheduling with Google Calendar and Outlook.
-- Automate SMS communication and appointment confirmations.
-- Implement call routing, voicemail detection, and call-handling workflows.
-- Integrate real-time voice AI and speech technologies.
-- Deploy and manage cloud-based services and backend infrastructure.
-
-**Core technologies:** Node.js, Retell AI, Vapi, Twilio, ElevenLabs, AWS, PostgreSQL.
-
-### 🎯 TalkHiring — AI Mock Interview Platform
-
-**AI Interview & Candidate Assessment | September 2024**
-
-An AI-powered interview platform designed for educational institutions and candidates.
-
-- Conduct voice-based mock interviews using AI interview agents.
-- Generate interview questions based on candidate CVs and job descriptions.
-- Process sensitive candidate information with privacy-aware workflows.
-- Provide automated interview feedback and structured candidate assessments.
-- Build dashboards for interview history, recordings, scores, and progress tracking.
-- Support institutional staff workflows and individual candidate experiences.
-
-**Core technologies:** Next.js, Node.js, Vapi, OpenAI, Deepgram, ElevenLabs, AWS, S3.
-
-### 👥 Talent1 — Talent-as-a-Service Platform
-
-**On-Demand Talent & Workforce Solutions | June 2025 – August 2025**
-
-A talent-as-a-service platform helping companies expand their teams through flexible, on-demand talent solutions.
-
-- Connect businesses with qualified and pre-vetted professionals.
-- Support flexible talent sourcing and candidate screening.
-- Help companies find professionals based on skills and business requirements.
-- Enable flexible engagements instead of traditional long-term hiring.
-- Simplify workforce scaling through an on-demand talent model.
-- Support a more adaptable approach to building and managing teams.
-
-### 💼 Unzipped — Freelancing Marketplace
-
-**Freelance Services Platform | September 2024 – November 2024**
-
-A digital freelancing platform connecting clients with independent professionals.
-
-- Provide a marketplace for clients seeking freelance services.
-- Enable freelancers to showcase their skills and professional services.
-- Help clients discover talent based on project requirements.
-- Support connections between businesses and independent professionals.
-- Simplify access to freelance opportunities and service-based work.
-
-### 📊 PGN Automation — HubSpot Business Intelligence
-
-**AI-Powered Business Dashboard | July 2026 – Present**
-
-A business intelligence and client management dashboard built around HubSpot integration.
-
-- Integrate HubSpot data into a centralized business dashboard.
-- Monitor client health, retention, revenue, and member profiles.
-- Provide AI-powered sentiment insights for member health monitoring.
-- Build reporting dashboards, date filters, and weekly business summaries.
-- Support AI-assisted workflows for business operations and client management.
-- Develop responsive interfaces and real-time conversational experiences.
-
-**Core technologies:** Next.js, TypeScript, HubSpot API, AI integrations, AWS Amplify.
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 ---
 
 ## 💼 Professional Experience
 
-### Software Engineer — Scaylar Technologies
+**Software Engineer — Scaylar Technologies**  
+September 2024 – Present
 
-**September 2024 – Present**
+- Developing full-stack applications and scalable software solutions.
+- Building AI-powered products, voice agents, and conversational systems.
+- Integrating APIs, cloud services, and modern AI technologies.
+- Contributing to system design, architecture, and production deployments.
 
-- Build scalable full-stack applications and production-ready software.
-- Develop AI-powered products, conversational systems, and voice agents.
-- Integrate LLMs, external APIs, and cloud services.
-- Work across frontend, backend, databases, and deployment workflows.
-- Contribute to application architecture and engineering decisions.
+**Software Engineering Intern — Momin Solutions**  
+July 2023 – September 2023
 
-### Software Engineering Intern — Momin Solutions
-
-**July 2023 – September 2023**
-
-- Gained practical experience in software engineering and application development.
-- Worked on development tasks and software implementation.
-- Strengthened foundational programming and problem-solving skills.
+- Gained practical software development experience.
+- Contributed to application development and engineering tasks.
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Science — Computer Engineering**
-
-COMSATS University Islamabad
-2020 – 2024
+**BS Computer Engineering**  
+COMSATS University Islamabad | 2020 – 2024
 
 ---
 
@@ -362,45 +192,32 @@ COMSATS University Islamabad
 
 ---
 
-## 📊 GitHub In Motion — Live Stats
+## 📊 GitHub Statistics
 
-\<div align="center">
+<div align="center">
 
-\<img width="49%" src="[https://github-readme-stats.vercel.app/api?username=Afaankamran&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github](https://github-readme-stats.vercel.app/api?username=Afaankamran\&show_icons=true\&theme=tokyonight\&hide_border=true\&rank_icon=github)" />
-\<img width="49%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Afaankamran&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=Afaankamran\&layout=compact\&theme=tokyonight\&hide_border=true)" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Afaankamran&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-\<br/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afaankamran&layout=compact&theme=tokyonight&hide_border=true" />
 
-\<img width="75%" src="[https://streak-stats.demolab.com?user=Afaankamran&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=Afaankamran\&theme=tokyonight\&hide_border=true)" />
+<img width="75%" src="https://streak-stats.demolab.com?user=Afaankamran&theme=tokyonight&hide_border=true" />
 
-\<br/>
-
-\<img width="90%" src="[https://github-readme-activity-graph.vercel.app/graph?username=Afaankamran&theme=tokyo-night&hide_border=true&area=true](https://github-readme-activity-graph.vercel.app/graph?username=Afaankamran\&theme=tokyo-night\&hide_border=true\&area=true)" />
-
-\<br/>
-
-\<img src="[https://komarev.com/ghpvc/?username=Afaankamran&style=for-the-badge&color=2563EB](https://komarev.com/ghpvc/?username=Afaankamran\&style=for-the-badge\&color=2563EB)" alt="Profile Views"/>
-
-\</div>
+</div>
 
 ---
 
-## 🤝 Let's Build Something
+## 🤝 Let's Connect
 
-I'm always interested in connecting with engineers, founders, and teams building impactful software products, AI applications, and next-generation digital experiences.
+I'm always open to connecting with engineers, founders, and teams working on impactful software products and AI solutions.
 
-\<div align="center">
+- 🌐 Portfolio: [afaankamran.vercel.app](https://afaankamran.vercel.app)
+- 💼 LinkedIn: [Afaan Kamran](https://pk.linkedin.com/in/afaankamran3)
+- 🐙 GitHub: [@Afaankamran](https://github.com/Afaankamran)
 
-\<a href="[https://afaankamran.vercel.app](https://afaankamran.vercel.app)">   \<img src="[https://img.shields.io/badge/🌐\_Personal_Portfolio-Visit_Now-2563EB?style=for-the-badge](https://img.shields.io/badge/🌐_Personal_Portfolio-Visit_Now-2563EB?style=for-the-badge)" /> \</a>
+<div align="center">
 
-\<a href="[https://www.linkedin.com/in/afaankamran3/](https://www.linkedin.com/in/afaankamran3/)">   \<img src="[https://img.shields.io/badge/LinkedIn-Let](https://img.shields.io/badge/LinkedIn-Let)'s_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> \</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=100&section=footer" width="100%" />
 
-\<a href="[https://github.com/Afaankamran](https://github.com/Afaankamran)">   \<img src="[https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge\&logo=github\&logoColor=white)" /> \</a>
+**Building the future, one product at a time.**
 
-\<br/>\<br/>
-
-**"Great software is built through thoughtful engineering, continuous learning, and meaningful problem-solving."**
-
-\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:1D4ED8,100:06B6D4&height=110&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0:0B1020,45:1D4ED8,100:06B6D4\&height=110\&section=footer)" width="100%" />
-
-\</div>
+</div>
